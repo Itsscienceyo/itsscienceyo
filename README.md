@@ -8,7 +8,7 @@
 
 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsscienceyo&theme=windows-dark)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=itsscienceyo&theme=windows-dark)](https://git.io/streak-stats)</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsscienceyo&show_icons=true&theme=dark)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
